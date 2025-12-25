@@ -1,0 +1,25 @@
+Snap Inc. Non-Commercial License
+
+Copyright (c) 2025 Snap Inc. All rights reserved.
+
+This sample code is made available by Snap Inc. for non-commercial, research purposes only. 
+
+Non-commercial means not intended for or directed towards commercial advantage or monetary compensation. Research purposes mean solely for academic study, instruction, or non-commercial research, testing or validation. 
+
+No commercial license, whether implied or otherwise, is granted in or to this sample code or any related patents, unless you have entered into a separate agreement with Snap Inc. for such rights.
+
+This sample code is provided as-is, without warranty of any kind, express or implied, including any warranties of merchantability, title, fitness for a particular purpose, non-infringement, or that the code is free of defects, errors or viruses. In no event will Snap Inc. be liable for any damages or losses of any kind arising from this sample code or your use thereof.
+
+Any redistribution of this sample code, including in binary form, must retain or reproduce this license text including all copyright notices, conditions and disclaimers. 
+
+Third-Party Software
+
+This sample code may require, link to or interact with the following third-party components, each of which is governed by its own respective license:
+Wan2.2
+Copyright 2024-2025 The Alibaba Wan Team Authors.
+The Wan2.2 project can be found at: https://huggingface.co/Wan-AI/Wan2.2-TI2V-5B.
+This software is licensed under the Apache License, Version 2.0. A copy of the license can be found at: http://www.apache.org/licenses/LICENSE-2.0
+wav2vec2-large-xlsr-53
+Copyright 2020 Facebook, Inc. and its affiliates.
+The wav2vec2-large-xlsr-53 project can be found at: https://huggingface.co/facebook/wav2vec2-large-xlsr-53.
+This software is licensed under the Apache License, Version 2.0. A copy of the license can be found at: http://www.apache.org/licenses/LICENSE-2.0

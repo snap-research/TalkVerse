@@ -1,0 +1,9 @@
+[
+    {
+        "prompt": "The video features a man standing indoors, dressed in a formal navy blue suit with a white dress shirt. He has his hands in his pockets and is positioned near a window, allowing natural light to illuminate the scene. The background is minimalistic, with neutral tones that complement the subject's attire. The overall atmosphere of the video is professional and polished.",
+        "cond_image": "examples/sota_cases/2025-07-14-1036.png",
+        "cond_audio": {
+            "person1": "examples/sota_cases/2025-07-14-1036.wav"
+        }
+    }
+]
