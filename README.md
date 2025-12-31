@@ -1,16 +1,16 @@
 # TalkVerse: Democratizing Minute-Long Audio-Driven Video Generation
 
 <p align="center">
-    <a href="https://zhenzhiwang.github.io/talkverse/"><b>TalkVerse Website</b></a> &nbsp&nbsp ｜ &nbsp&nbsp 🖥️ <a href="https://github.com/Snap-Research/TalkVerse">GitHub</a> &nbsp&nbsp  | &nbsp&nbsp🤗 <a href="https://huggingface.co/TalkVerse/">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp📑 <a href="https://arxiv.org/abs/2512.14938">arXiv</a>&nbsp&nbsp
+    <a href="https://zhenzhiwang.github.io/talkverse/"><b>TalkVerse Website</b></a> &nbsp&nbsp ｜ &nbsp&nbsp 🖥️ <a href="https://github.com/Snap-Research/TalkVerse">GitHub</a> &nbsp&nbsp  | &nbsp&nbsp🤗 <a href="https://huggingface.co/datasets/zhenzhiwang/TalkVerse">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp📑 <a href="https://arxiv.org/abs/2512.14938">arXiv</a>&nbsp&nbsp
     <br>
 </p>
 
 -----
 
-We introduce **TalkVerse**, a large-scale, open corpus for single-person, audio-driven talking video generation designed to enable fair, reproducible comparison across methods, with **2.3M video clips(6.3K hours)** from public T2V source (OpenHumanVid, Panda70M). We also release all the training and inference code.
+We introduce **TalkVerse**, a large-scale, open corpus for single-person, audio-driven talking video generation designed to enable fair, reproducible comparison across methods, with **2.1M video clips(6.3K hours)** from public T2V source (OpenHumanVid, Panda70M). We also release all the training and inference code.
 
 ## 🔥 Latest News
-* **[2025-12-17]** 🚀 We release the Training and Inference code for **TalkVerse-5B** model, a lightweight baseline capable of minute-long generation.
+* **[2025-12-31]** 🚀 We release the Training and Inference code for **TalkVerse-5B** model, a lightweight baseline capable of minute-long generation.
 
 ## 🛠️ Installation
 
