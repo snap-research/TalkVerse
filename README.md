@@ -29,7 +29,7 @@ pip install -r requirements_s2v.txt
 |-------|-------------|----------|
 | **TalkVerse-5B** | Audio-Driven LoRA weights trained on TalkVerse | [HuggingFace](https://huggingface.co/snap-research/talkverse-s2v-5b) |
 | **Wan2.2-TI2V-5B** | Base Text/Image-to-Video Model (Backbone) | [HuggingFace](https://huggingface.co/Wan-AI/Wan2.2-TI2V-5B) |
-| **Wav2Vec2** | Audio Encoder (wav2vec2-large-xlsr-53-english) | [HuggingFace](https://huggingface.co/facebook/wav2vec2-large-xlsr-53) |
+| **Wav2Vec2** | Audio Encoder (wav2vec2-large-xlsr-53-english) | [HuggingFace](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-english) |
 
 Download the models and place them in a `ckpts/` directory (or adjust paths in scripts accordingly).
 
